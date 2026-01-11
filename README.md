@@ -137,6 +137,3 @@ This shell is not intended to replace bash, zsh, or any production shell.
 It is a learning-focused implementation designed to demonstrate how core terminal functionality is built from the ground up.
 
 Pull requests and extensions are welcome if you want to build on it.
-
-
-MIT Lic
