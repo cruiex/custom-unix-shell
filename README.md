@@ -139,4 +139,4 @@ It is a learning-focused implementation designed to demonstrate how core termina
 Pull requests and extensions are welcome if you want to build on it.
 
 
-MIT License
+MIT Lic
