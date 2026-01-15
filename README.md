@@ -104,31 +104,6 @@ sleep 5 &
 jobs
 fg
 ```
-
----
-
-## Features That Could Be Added
-
-This project leaves room to explore more advanced shell internals, such as:
-
-* Variable expansion (`$HOME`)
-* Wildcard/glob patterns
-* Configuration files (`.rc`)
-* User-written plugins or built-in extensions
-* Shell scripting mode for batch execution
-
----
-
-## Why This Exists
-
-Building a shell from scratch forces you to understand:
-* how commands become running processes
-* how multiple programs talk via pipes
-* why file descriptors matter
-* what happens when you hit Enter in a terminal
-
-It’s a compact project that brings together operating systems, parsing, and systems programming in a single place.
-
 ---
 
 ## Disclaimer
